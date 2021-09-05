@@ -1,7 +1,7 @@
 <!-- Navigation -->
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
 	<div class="container-fluid sticky-top">
-		<a class="navbar-branch subpages" href="../main/index.php">
+		<a class="navbar-branch subpages" href="../index.php">
 			<img src="../images/logo.png" height="50">
 		</a>
 
