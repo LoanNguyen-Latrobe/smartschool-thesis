@@ -24,7 +24,7 @@
 <nav class="navbar navbar-expand-md navbar-light bg-light sticky-top">
 	<div class="container-fluid">
 		<a class="navbar-branch" href="index.php">
-			<img src="../images/logo.png" height="50">
+			<img src="images/logo.png" height="50">
 		</a>
 		<button class="navbar-toggler" type="button" data-toggle="collapse" 
 		data-target="#navbarResponsive">
@@ -33,7 +33,7 @@
 		<div class="collapse navbar-collapse" id="navbarResponsive">
 			<ul class="navbar-nav ml-auto">
 				<li class="nav-item active">
-					<a class="nav-link" href="../main/index.php">HOME</a>					
+					<a class="nav-link" href="#">HOME</a>					
 				</li>
 				<li class="nav-item">
 					<a class="nav-link" href="#">MISSION</a>					
@@ -65,12 +65,12 @@
 		    <h3 class="lead">Start your course</h3>
   		</div>
   		<div class="col-2 tech-btn">
-	    	<a href="index_teacher.php"><img src="images/tech_icon.png" alt="Teachers"></a>
+	    	<a href="main/index_teacher.php"><img src="images/tech_icon.png" alt="Teachers"></a>
 	        <a href="main/index_teacher.php"><img src="images/tech_icon_hover.png" class="img-top" alt="Teachers"></a>
 	    </div>
   		<div class="col-2 tech-btn">
 	    	<a href="main/index_student.php"><img src="images/student_icon.png" alt="Students"></a>
-	        <a href="index_student.php"><img src="images/student_icon_hover.png" class="img-top" alt="Students"></a>
+	        <a href="main/index_student.php"><img src="images/student_icon_hover.png" class="img-top" alt="Students"></a>
 	    </div>
   	</div>
   </div>
