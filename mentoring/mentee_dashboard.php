@@ -27,7 +27,7 @@
 					</div>
 				</div>
 				<div class="dash-widget-info">
-					<h3>10</h3>
+					<h3>5</h3>
 					<h6>Mentoring group</h6>
 				</div>
 			</div>
@@ -41,7 +41,7 @@
 				</div>
 				<div class="dash-widget-info">
 					<a href="appointments.php"></a>
-					<h3>33</h3>
+					<h3>10</h3>
 					<h6>Appointments</h6>
 				</div>
 			</div>
@@ -84,68 +84,48 @@
 							<td>1</td>
 							<td>LG-INTER-21-01</td>
 							<td>2</td>
-							<td>Intermediate level in English</td>
-							<td>08 April 2020</td>
+							<td>Intermediate speaking in English</td>
+							<td>15 January 2020</td>
 							<td class="text-center"><span class="accept">OPEN</span></td>
 							<td class="text-center"><a href="mentoring_detail_mentee.php" class="btn btn-sm bg-info-light">
 								<i class="fas fa-eye"></i> View</a></td>
 						</tr>
 						<tr>
 							<td>2</td>
-							<td>LG-INTER-21-01</td>
-							<td>2</td>
-							<td>Intermediate level in English</td>
-							<td>08 April 2020</td>
+							<td>LG-INTER-21-03</td>
+							<td>5</td>
+							<td>Academic English writing</td>
+							<td>08 March 2020</td>
 							<td class="text-center"><span class="accept">OPEN</span></td>
 							<td class="text-center"><a href="mentoring_detail_mentee.php" class="btn btn-sm bg-info-light">
 								<i class="fas fa-eye"></i> View</a></td>
 						</tr>
 						<tr>
 							<td>3</td>
-							<td>LG-INTER-21-01</td>
-							<td>2</td>
-							<td>Intermediate level in English</td>
-							<td>08 April 2020</td>
+							<td>IT-BASIC-21-07</td>
+							<td>10</td>
+							<td>Design a website using Bootstrap</td>
+							<td>10 July 2020</td>
 							<td class="text-center"><span class="accept">OPEN</span></td>
 							<td class="text-center"><a href="mentoring_detail_mentee.php" class="btn btn-sm bg-info-light">
 								<i class="fas fa-eye"></i> View</a></td>
 						</tr>
 						<tr>
 							<td>4</td>
-							<td>LG-INTER-21-01</td>
-							<td>2</td>
-							<td>Intermediate level in English</td>
-							<td>08 April 2020</td>
+							<td>IT-BASIC-21-08</td>
+							<td>7</td>
+							<td>Use MySQL database</td>
+							<td>08 August 2020</td>
 							<td class="text-center"><span class="accept">OPEN</span></td>
 							<td class="text-center"><a href="mentoring_detail_mentee.php" class="btn btn-sm bg-info-light">
 								<i class="fas fa-eye"></i> View</a></td>
 						</tr>
 						<tr>
 							<td>5</td>
-							<td>LG-INTER-21-01</td>
-							<td>2</td>
-							<td>Intermediate level in English</td>
-							<td>08 April 2020</td>
-							<td class="text-center"><span class="closed">CLOSED</span></td>
-							<td class="text-center"><a href="mentoring_detail_mentee.php" class="btn btn-sm bg-info-light">
-								<i class="fas fa-eye"></i> View</a></td>
-						</tr>
-						<tr>
-							<td>6</td>
-							<td>LG-INTER-21-01</td>
-							<td>2</td>
-							<td>Intermediate level in English</td>
-							<td>08 April 2020</td>
-							<td class="text-center"><span class="closed">CLOSED</span></td>
-							<td class="text-center"><a href="mentoring_detail_mentee.php" class="btn btn-sm bg-info-light">
-								<i class="fas fa-eye"></i> View</a></td>
-						</tr>
-						<tr>
-							<td>7</td>
-							<td>LG-INTER-21-01</td>
-							<td>2</td>
-							<td>Intermediate level in English</td>
-							<td>08 April 2020</td>
+							<td>LG-BASIC-20-09</td>
+							<td>3</td>
+							<td>English Grammar</td>
+							<td>12 September 2020</td>
 							<td class="text-center"><span class="closed">CLOSED</span></td>
 							<td class="text-center"><a href="mentoring_detail_mentee.php" class="btn btn-sm bg-info-light">
 								<i class="fas fa-eye"></i> View</a></td>

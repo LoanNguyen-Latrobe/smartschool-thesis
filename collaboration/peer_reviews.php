@@ -93,7 +93,7 @@
 						<tr>
 							<td>1</td>
 							<td>Critical thinking and collaborative learning</td>
-							<td>20 June 2021</td>
+							<td>22 October 2021</td>
 							<td class="text-center"><span class="pending"><i class="fas fa-pencil-alt"></i></span></td>
 							<td></td>
 							<td class="text-center"><a href="my_paper_review.php" class="btn btn-sm bg-info-light">
@@ -101,37 +101,37 @@
 						</tr>
 						<tr>
 							<td>2</td>
-							<td>Critical thinking and collaborative learning</td>
-							<td>20 June 2021</td>
+							<td>Smart education environment</td>
+							<td>18 February 2021</td>
 							<td class="text-center"><span class="accept"><i class="fas fa-check"></i></span></td>
-							<td>20 August 2021</td>
+							<td>10 August 2021</td>
 							<td class="text-center"><a href="my_paper_review.php" class="btn btn-sm bg-info-light">
 								<i class="fas fa-eye"></i> View</a></td>
 						</tr>
 						<tr>
 							<td>3</td>
-							<td>Critical thinking and collaborative learning</td>
-							<td>20 June 2021</td>
+							<td>Enhance smart learner's skills</td>
+							<td>20 June 2020</td>
 							<td class="text-center"><span class="accept"><i class="fas fa-check"></i></span></td>
-							<td>20 August 2021</td>
+							<td>15 February 2021</td>
 							<td class="text-center"><a href="my_paper_review.php" class="btn btn-sm bg-info-light">
 								<i class="fas fa-eye"></i> View</a></td>
 						</tr>
 						<tr>
 							<td>4</td>
-							<td>Critical thinking and collaborative learning</td>
-							<td>20 June 2021</td>
+							<td>Critical thinking and Problem solving</td>
+							<td>02 Arpil 2019</td>
 							<td class="text-center"><span class="accept"><i class="fas fa-check"></i></span></td>
-							<td>20 August 2021</td>
+							<td>03 February 2020</td>
 							<td class="text-center"><a href="my_paper_review.php" class="btn btn-sm bg-info-light">
 								<i class="fas fa-eye"></i> View</a></td>
 						</tr>
 						<tr>
 							<td>5</td>
-							<td>Critical thinking and collaborative learning</td>
-							<td>20 June 2021</td>
+							<td>E-Mentoring in Smart education</td>
+							<td>04 June 2018</td>
 							<td class="text-center"><span class="accept"><i class="fas fa-check"></i></span></td>
-							<td>20 August 2021</td>
+							<td>06 May 2019</td>
 							<td class="text-center"><a href="my_paper_review.php" class="btn btn-sm bg-info-light">
 								<i class="fas fa-eye"></i> View</a></td>
 						</tr>

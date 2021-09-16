@@ -33,7 +33,7 @@
 
 								<div class="col-12 col-md-4">
 									<div class="form-group">
-										<label>Name</label>
+										<label>Goal</label>
 										<input type="text" class="form-control" value="">
 									</div>
 									<div class="form-group">

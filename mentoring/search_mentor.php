@@ -225,11 +225,11 @@
 								<div class="user-info-left">
 									<div class="mentor-img">
 										<a href="profile.html">
-											<img src="../images/users/user_3.jpg" class="img-fluid" alt="User Image">
+											<img src="../images/users/user_4.jpg" class="img-fluid" alt="User Image">
 										</a>
 									</div>
 									<div class="user-info-cont">
-										<h4 class="usr-name"><a href="profile.html">Ruby Perrin</a></h4>
+										<h4 class="usr-name"><a href="profile.html">Nicole Smith</a></h4>
 										<p class="mentor-type">Asscociate Professor</p>
 										<div class="rating">
 											<i class="fas fa-star filled"></i>
@@ -237,7 +237,7 @@
 											<i class="fas fa-star filled"></i>
 											<i class="fas fa-star filled"></i>
 											<i class="fas fa-star filled"></i>
-											<span class="d-inline-block average-rating">(40)</span>
+											<span class="d-inline-block average-rating">(38)</span>
 										</div>
 										<div class="mentor-details">
 											<p class="user-location"><i class="fas fa-map-marker-alt"></i> Department of Science</p>
@@ -247,8 +247,8 @@
 								<div class="user-info-right">
 									<div class="user-infos">
 										<ul>
-											<li><i class="far fa-comment"></i> 35 Feedback</li>
-											<li><i class="fas fa-briefcase"></i> 25 Experience years</li>
+											<li><i class="far fa-comment"></i> 16 Feedback</li>
+											<li><i class="fas fa-briefcase"></i> 20 Experience years</li>
 										</ul>
 									</div>
 									<div class="action">
@@ -268,19 +268,19 @@
 								<div class="user-info-left">
 									<div class="mentor-img">
 										<a href="profile.html">
-											<img src="../images/users/user_3.jpg" class="img-fluid" alt="User Image">
+											<img src="../images/users/user_1.png" class="img-fluid" alt="User Image">
 										</a>
 									</div>
 									<div class="user-info-cont">
-										<h4 class="usr-name"><a href="profile.html">Ruby Perrin</a></h4>
-										<p class="mentor-type">Asscociate Professor</p>
+										<h4 class="usr-name"><a href="profile.html">Rossie Sulaiman</a></h4>
+										<p class="mentor-type">Professor</p>
 										<div class="rating">
 											<i class="fas fa-star filled"></i>
 											<i class="fas fa-star filled"></i>
 											<i class="fas fa-star filled"></i>
 											<i class="fas fa-star filled"></i>
-											<i class="fas fa-star filled"></i>
-											<span class="d-inline-block average-rating">(40)</span>
+											<i class="fa-star-half-o"></i>
+											<span class="d-inline-block average-rating">(45)</span>
 										</div>
 										<div class="mentor-details">
 											<p class="user-location"><i class="fas fa-map-marker-alt"></i> Department of Science</p>
@@ -290,8 +290,8 @@
 								<div class="user-info-right">
 									<div class="user-infos">
 										<ul>
-											<li><i class="far fa-comment"></i> 35 Feedback</li>
-											<li><i class="fas fa-briefcase"></i> 25 Experience years</li>
+											<li><i class="far fa-comment"></i> 30 Feedback</li>
+											<li><i class="fas fa-briefcase"></i> 18 Experience years</li>
 										</ul>
 									</div>
 									<div class="action">

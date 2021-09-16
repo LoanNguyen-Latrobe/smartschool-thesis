@@ -38,12 +38,12 @@
 							<td>1</td>
 							<td>
 								<h2 class="table-avatar">
-								<a href="profile.html" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="../images/users/user_1.png" alt="User Image"></a>
-								<a href="profile.html">Tyrone Roberts<span>tyroneroberts@adobe.com</span></a>
+								<a href="profile.html" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="../images/users/user_7.png" alt="User Image"></a>
+								<a href="profile.html">David Thompson<span>davidThompson@added.com</span></a>
 								</h2>
 							</td>
-							<td>Intermediate level in English</td>
-							<td>08 April 2020</td>
+							<td>Learning Web Development</td>
+							<td>31 August 2021</td>
 							<td class="text-center"><span class="pending">PENDING</span></td>
 							<td>
          						<a data-toggle="modal" href="#view-request" class="btn btn-sm btn-info"><span class="glyphicon glyphicon-eye-open"></span></a> | <button class="btn btn-sm btn-danger btn_remove" type="button" id=""><span class="glyphicon glyphicon-trash"></span></button>
@@ -53,28 +53,13 @@
 							<td>2</td>
 							<td>
 								<h2 class="table-avatar">
-								<a href="profile.html" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="../images/users/user_1.png" alt="User Image"></a>
+								<a href="profile.html" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="../images/users/user_6.png" alt="User Image"></a>
 								<a href="profile.html">Tyrone Roberts<span>tyroneroberts@adobe.com</span></a>
 								</h2>
 							</td>
-							<td>Intermediate level in English</td>
-							<td>08 April 2020</td>
+							<td>Intermediate writing in English</td>
+							<td>15 August 2021</td>
 							<td class="text-center"><span class="decline">DECLINED</span></td>
-							<td>
-         						<a data-toggle="modal" href="#view-request" class="btn btn-sm btn-info"><span class="glyphicon glyphicon-eye-open"></span></a> | <button class="btn btn-sm btn-danger btn_remove" type="button" id=""><span class="glyphicon glyphicon-trash"></span></button>
-							</td>
-						</tr>
-						<tr>
-							<td>3</td>
-							<td>
-								<h2 class="table-avatar">
-								<a href="profile.html" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="../images/users/user_1.png" alt="User Image"></a>
-								<a href="profile.html">Tyrone Roberts<span>tyroneroberts@adobe.com</span></a>
-								</h2>
-							</td>
-							<td>Intermediate level in English</td>
-							<td>08 April 2020</td>
-							<td class="text-center"><span class="pending">PENDING</span></td>
 							<td>
          						<a data-toggle="modal" href="#view-request" class="btn btn-sm btn-info"><span class="glyphicon glyphicon-eye-open"></span></a> | <button class="btn btn-sm btn-danger btn_remove" type="button" id=""><span class="glyphicon glyphicon-trash"></span></button>
 							</td>
@@ -109,12 +94,12 @@
 			                           <a href="profile.html">
 			                            <div class="d-flex justify-content-start">
 				                            <div class="mr-3" style="width: 60px; padding-left: 10px;">
-				                                <img class="rounded-circle w-100" src="../images/users/user_2.png">
+				                                <img class="rounded-circle w-100" src="../images/users/user_7.png">
 				                            </div>
 				                            <div>
-				                                <h3 class="h5 font-weight-bold mb-0">Tyrone Roberts</h3>
+				                                <h3 class="h5 font-weight-bold mb-0">David Thompson</h3>
 				                                <div class="mb-3" tabindex="-1">
-				                                 tyroneroberts@adobe.com
+				                                 davidThompson@added.com
 				                                </div>
 				                            </div>
 			                            </div>
@@ -165,7 +150,7 @@
 		                           <a href="profile.html">
 		                            <div class="d-flex justify-content-start">
 			                            <div class="mr-3" style="width: 60px; padding-left: 10px;">
-			                                <img class="rounded-circle w-100" src="../images/users/user_2.png">
+			                                <img class="rounded-circle w-100" src="../images/users/user_6.png">
 			                            </div>
 			                            <div>
 			                                <h3 class="h5 font-weight-bold mb-0">Tyrone Roberts</h3>

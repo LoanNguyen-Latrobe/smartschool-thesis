@@ -12,9 +12,9 @@
 					</div>
 				</div>
 				<div class="dash-widget-info">
-					<a href="request_group.php">
+					<a href="my_requests.php">
 						<h3>03</h3>
-						<h6>Requests</h6>
+						<h6>My Requests</h6>
 					</a>
 				</div>
 			</div>
@@ -27,8 +27,10 @@
 					</div>
 				</div>
 				<div class="dash-widget-info">
-					<h3>10</h3>
-					<h6>Collaboration Groups</h6>
+					<a href="request_group.php">
+						<h3>2</h3>
+						<h6>Group Requests</h6>
+					</a>
 				</div>
 			</div>
 		</div>
@@ -82,10 +84,10 @@
 						<tbody>
 						<tr>
 							<td>1</td>
-							<td>LG-INTER-21-01</td>
-							<td>2</td>
-							<td>Intermediate level in English</td>
-							<td>08 April 2020</td>
+							<td>IT-PHP-20-12</td>
+							<td>5</td>
+							<td>Basic of PHP Programming Language</td>
+							<td>08 December 2020</td>
 							<td class="text-center"><span class="accept">OPEN</span></td>
 							<td class="text-center"><a href="group_detail.php" class="btn btn-sm bg-info-light">
 								<i class="fas fa-eye"></i> View</a></td>
@@ -102,21 +104,21 @@
 						</tr>
 						<tr>
 							<td>3</td>
-							<td>LG-INTER-21-01</td>
-							<td>2</td>
-							<td>Intermediate level in English</td>
-							<td>08 April 2020</td>
+							<td>IT-MYSQL-20-12</td>
+							<td>5</td>
+							<td>Basic of My SQL database</td>
+							<td>08 Decemeber 2020</td>
 							<td class="text-center"><span class="accept">OPEN</span></td>
 							<td class="text-center"><a href="group_detail.php" class="btn btn-sm bg-info-light">
 								<i class="fas fa-eye"></i> View</a></td>
 						</tr>
 						<tr>
 							<td>4</td>
-							<td>LG-INTER-21-01</td>
-							<td>2</td>
-							<td>Intermediate level in English</td>
-							<td>08 April 2020</td>
-							<td class="text-center"><span class="accept">OPEN</span></td>
+							<td>LG-BEGIN-20-01</td>
+							<td>8</td>
+							<td>Basic level in English</td>
+							<td>02 January2020</td>
+							<td class="text-center"><span class="closed">CLOSED</span></td>
 							<td class="text-center"><a href="group_detail.php" class="btn btn-sm bg-info-light">
 								<i class="fas fa-eye"></i> View</a></td>
 						</tr>

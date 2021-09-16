@@ -11,7 +11,7 @@
 						<li class="breadcrumb-item active" aria-current="page">Search Groups</li>
 					</ol>
 				</nav>
-				<h4 class="breadcrumb-title">45 matches found</h4>
+				<h4 class="breadcrumb-title">10 matches found</h4>
 			</div>
 		</div>
 	</div>
@@ -34,7 +34,7 @@
 										  <option value="2">Science</option>
 										  <option value="3">Economy</option>
 										  <option value="4">Politics</option>
-										  <option value="5">Social</option>
+										  <option value="5">Language</option>
 										</select>
 									</div>
 
@@ -129,29 +129,29 @@
 												<tr>
 													<td>1</td>
 													<td>LG-INTER-21-01</td>
-													<td>2</td>
+													<td>5</td>
 													<td>Intermediate level in English</td>
-													<td>08 April 2020</td>
+													<td>10 April 2021</td>
 													<td>
 														<a href="group_detail_request.php" class="btn btn-sm btn-info"><span class="glyphicon glyphicon-eye-open"></span></a> | <button class="btn btn-sm btn btn-success" type="button" id=""><span class="glyphicon glyphicon-plus-sign"> Request</span></button>
 													</td>
 												</tr>
 												<tr>
 													<td>2</td>
-													<td>LG-INTER-21-01</td>
-													<td>2</td>
-													<td>Intermediate level in English</td>
-													<td>08 April 2020</td>
+													<td>LG-INTER-20-10</td>
+													<td>4</td>
+													<td>Fluency English speaking</td>
+													<td>02 October 2020</td>
 													<td>
 														<a href="group_detail_request.php" class="btn btn-sm btn-info"><span class="glyphicon glyphicon-eye-open"></span></a> | <button class="btn btn-sm btn btn-success" type="button" id=""><span class="glyphicon glyphicon-plus-sign"> Request</span></button>
 													</td>
 												</tr>
 												<tr>
 													<td>3</td>
-													<td>LG-INTER-21-01</td>
-													<td>2</td>
-													<td>Intermediate level in English</td>
-													<td>08 April 2020</td>
+													<td>LG-INTER-21-03</td>
+													<td>3</td>
+													<td>Intermediate writing in English</td>
+													<td>20 March 2021</td>
 													<td>
 														<a href="group_detail_request.php" class="btn btn-sm btn-info"><span class="glyphicon glyphicon-eye-open"></span></a> | <button class="btn btn-sm btn btn-success" type="button" id=""><span class="glyphicon glyphicon-plus-sign"> Request</span></button>
 													</td>
@@ -160,18 +160,18 @@
 													<td>4</td>
 													<td>LG-INTER-21-01</td>
 													<td>2</td>
-													<td>Intermediate level in English</td>
-													<td>08 April 2020</td>
+													<td>Academic English writing</td>
+													<td>25 January 2021</td>
 													<td>
 														<a href="group_detail_request.php" class="btn btn-sm btn-info"><span class="glyphicon glyphicon-eye-open"></span></a> | <button class="btn btn-sm btn btn-success" type="button" id=""><span class="glyphicon glyphicon-plus-sign"> Request</span></button>
 													</td>
 												</tr>
 												<tr>
 													<td>5</td>
-													<td>LG-INTER-21-01</td>
-													<td>2</td>
-													<td>Intermediate level in English</td>
-													<td>08 April 2020</td>
+													<td>LG-INTER-20-11</td>
+													<td>5</td>
+													<td>Intermediate level in Japanese</td>
+													<td>20 November 2020</td>
 													<td>
 														<a href="group_detail_request.php" class="btn btn-sm btn-info"><span class="glyphicon glyphicon-eye-open"></span></a> | <button class="btn btn-sm btn btn-success" type="button" id=""><span class="glyphicon glyphicon-plus-sign"> Request</span></button>
 													</td>

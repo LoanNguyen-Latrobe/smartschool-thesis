@@ -11,7 +11,7 @@
 						<li class="breadcrumb-item active" aria-current="page"><a href="group_list.php">Groups</a></li>
 					</ol>
 				</nav>
-				<h4 class="breadcrumb-title">Request List</h4>
+				<h4 class="breadcrumb-title">Group Requests List</h4>
 			</div>
 		</div>
 	</div>
@@ -37,10 +37,10 @@
 						<tbody>
 							<tr>
 								<td>1</td>
-								<td>INT-ENG-21-01</td>
+								<td>INT-ENG-21-04</td>
 								<td>Language</td>
 								<td>Improve speaking</td>
-								<td>5</td>
+								<td>4</td>
 								<td>08 April 2020</td>
 								<td>
 	         						<a data-toggle="modal" href="#view-request" class="btn btn-sm btn-info"><span class="glyphicon glyphicon-eye-open"></span></a> | <button class="btn btn-sm btn-danger btn_remove" type="button" id=""><span class="glyphicon glyphicon-trash"></span></button>
@@ -50,20 +50,9 @@
 								<td>2</td>
 								<td>INT-ENG-21-01</td>
 								<td>Language</td>
-								<td>Improve speaking</td>
+								<td>Improve writing</td>
 								<td>5</td>
-								<td>08 April 2020</td>
-								<td>
-	         						<a data-toggle="modal" href="#view-request" class="btn btn-sm btn-info"><span class="glyphicon glyphicon-eye-open"></span></a> | <button class="btn btn-sm btn-danger btn_remove" type="button" id=""><span class="glyphicon glyphicon-trash"></span></button>
-								</td>
-							</tr>
-							<tr>
-								<td>2</td>
-								<td>INT-ENG-21-01</td>
-								<td>Language</td>
-								<td>Improve speaking</td>
-								<td>5</td>
-								<td>08 April 2020</td>
+								<td>08 January 2020</td>
 								<td>
 	         						<a data-toggle="modal" href="#view-request" class="btn btn-sm btn-info"><span class="glyphicon glyphicon-eye-open"></span></a> | <button class="btn btn-sm btn-danger btn_remove" type="button" id=""><span class="glyphicon glyphicon-trash"></span></button>
 								</td>

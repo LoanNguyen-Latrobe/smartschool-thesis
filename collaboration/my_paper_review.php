@@ -190,12 +190,12 @@
 							    		<div class="col-8">
 								            <header class="mb-2 header row d-flex">
 								                <div class="mr-3" style="width: 60px; padding-left: 10px;">
-								                    <img class="rounded-circle w-100" src="../images/users/user_2.png">
+								                    <img class="rounded-circle w-100" src="../images/users/user_1.png">
 								                </div>
 								                <div class="d-flex flex-column">
-								                    <h4 class="h5 font-weight-bold mb-0"><a href="">Ruby Perrin</a></h4>
+								                    <h4 class="h5 font-weight-bold mb-0"><a href="">Terry Bolton</a></h4>
 								                    <div class="mb-3" tabindex="-1">
-								                     <a href="mailto:rubyPerrin@gmail.com" target="_blank" class="far fa-envelope"> rubyPerrin@gmail.com</a>
+								                     <a href="mailto:rubyPerrin@gmail.com" target="_blank" class="far fa-envelope"> TerryBolton@gmail.com</a>
 								                    </div>
 								                </div>
 								            </header>									    	

@@ -42,7 +42,7 @@
 								</h2>
 							</td>
 							<td>Critical thinking and collaborative learning</td>
-							<td>20 June 2021</td>
+							<td>15 July 2021</td>
 							<td>
          						<a data-toggle="modal" href="#view-request" class="btn btn-sm btn-info"><span class="glyphicon glyphicon-eye-open"></span></a>
 							</td>
@@ -51,11 +51,11 @@
 							<td>2</td>
 							<td>
 								<h2 class="table-avatar">
-								<a href="profile.html" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="../images/users/user_1.png" alt="User Image"></a>
-								<a href="profile.html">Tyrone Roberts<span>tyroneroberts@adobe.com</span></a>
+								<a href="profile.html" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="../images/users/user_3.jpg" alt="User Image"></a>
+								<a href="profile.html">Maria Garcia<span>Mariagarcia@adobe.com</span></a>
 								</h2>
 							</td>
-							<td>Critical thinking and collaborative learning</td>
+							<td>Collaborative learning</td>
 							<td>20 June 2021</td>
 							<td>
          						<a data-toggle="modal" href="#view-request" class="btn btn-sm btn-info"><span class="glyphicon glyphicon-eye-open"></span></a>
@@ -65,12 +65,12 @@
 							<td>3</td>
 							<td>
 								<h2 class="table-avatar">
-								<a href="profile.html" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="../images/users/user_1.png" alt="User Image"></a>
-								<a href="profile.html">Tyrone Roberts<span>tyroneroberts@adobe.com</span></a>
+								<a href="profile.html" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="../images/users/user_4.jpg" alt="User Image"></a>
+								<a href="profile.html">Thomas Christopher<span>thomasChritoper@cmd.com</span></a>
 								</h2>
 							</td>
-							<td>Critical thinking and collaborative learning</td>
-							<td>20 June 2021</td>
+							<td>E-Mentoring</td>
+							<td>18 August 2021</td>
 							<td>
          						<a data-toggle="modal" href="#view-request" class="btn btn-sm btn-info"><span class="glyphicon glyphicon-eye-open"></span></a>
 							</td>
